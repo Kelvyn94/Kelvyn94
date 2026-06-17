@@ -20,89 +20,21 @@
 
 <div align="left">
 
-<!-- HTML5 -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-<progress value="90" max="100" style="width:100px;height:10px;border-radius:5px;background:#ddd;"></progress>
-<strong>90%</strong>
-<br/>
-
-<!-- CSS3 -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-<progress value="85" max="100" style="width:100px;height:10px;border-radius:5px;background:#ddd;"></progress>
-<strong>85%</strong>
-<br/>
-
-<!-- Bootstrap -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-<progress value="80" max="100" style="width:100px;height:10px;border-radius:5px;background:#ddd;"></progress>
-<strong>80%</strong>
-<br/>
-
-<!-- Tailwind -->
-<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-<progress value="75" max="100" style="width:100px;height:10px;border-radius:5px;background:#ddd;"></progress>
-<strong>75%</strong>
-<br/>
-
-<!-- SASS -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
-<progress value="70" max="100" style="width:100px;height:10px;border-radius:5px;background:#ddd;"></progress>
-<strong>70%</strong>
-<br/>
-
-<!-- JavaScript -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-<progress value="85" max="100" style="width:100px;height:10px;border-radius:5px;background:#ddd;"></progress>
-<strong>85%</strong>
-<br/>
-
-<!-- React -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-<progress value="75" max="100" style="width:100px;height:10px;border-radius:5px;background:#ddd;"></progress>
-<strong>75%</strong>
-<br/>
-
-<!-- Chart.js -->
-<img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/>
-<progress value="65" max="100" style="width:100px;height:10px;border-radius:5px;background:#ddd;"></progress>
-<strong>65%</strong>
-<br/>
-
-<!-- MySQL -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-<progress value="70" max="100" style="width:100px;height:10px;border-radius:5px;background:#ddd;"></progress>
-<strong>70%</strong>
-<br/>
-
-<!-- Python -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-<progress value="80" max="100" style="width:100px;height:10px;border-radius:5px;background:#ddd;"></progress>
-<strong>80%</strong>
-<br/>
-
-<!-- Git -->
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-<progress value="85" max="100" style="width:100px;height:10px;border-radius:5px;background:#ddd;"></progress>
-<strong>85%</strong>
-<br/>
-
-<!-- Figma -->
-<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-<progress value="70" max="100" style="width:100px;height:10px;border-radius:5px;background:#ddd;"></progress>
-<strong>70%</strong>
-<br/>
-
-<!-- Illustrator -->
-<img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/>
-<progress value="60" max="100" style="width:100px;height:10px;border-radius:5px;background:#ddd;"></progress>
-<strong>60%</strong>
-<br/>
-
-<!-- Node.js -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-<progress value="70" max="100" style="width:100px;height:10px;border-radius:5px;background:#ddd;"></progress>
-<strong>70%</strong>
-<br/>
+| Technology | Skill Level |
+|------------|-------------|
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="30"/> HTML5 | ⭐⭐⭐⭐⭐⭐☆☆☆☆ 60% |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="30"/> CSS3 | ⭐⭐⭐⭐⭐⭐☆☆☆☆ 60% |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="30"/> Bootstrap | ⭐⭐⭐⭐⭐☆☆☆☆☆ 50% |
+| <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="30"/> Tailwind | ⭐⭐⭐⭐⭐☆☆☆☆☆ 50% |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="30"/> SASS | ⭐⭐⭐⭐☆☆☆☆☆☆ 40% |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="30"/> JavaScript | ⭐⭐⭐⭐⭐⭐⭐☆☆☆ 70% |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="30"/> React | ⭐⭐⭐⭐⭐☆☆☆☆☆ 50% |
+| <img src="https://www.chartjs.org/media/logo-title.svg" width="30"/> Chart.js | ⭐⭐⭐⭐☆☆☆☆☆☆ 40% |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="30"/> MySQL | ⭐⭐⭐⭐⭐☆☆☆☆☆ 50% |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="30"/> Python | ⭐⭐⭐⭐⭐⭐☆☆☆☆ 60% |
+| <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="30"/> Git | ⭐⭐⭐⭐⭐⭐☆☆☆☆ 60% |
+| <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="30"/> Figma | ⭐⭐⭐⭐⭐☆☆☆☆☆ 50% |
+| <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" width="30"/> Illustrator | ⭐⭐⭐⭐☆☆☆☆☆☆ 40% |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="30"/> Node.js | ⭐⭐⭐⭐⭐☆☆☆☆☆ 50% |
 
 </div>
-
