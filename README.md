@@ -1,13 +1,13 @@
 <!-- Animated Header -->
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+  <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Hi.gif?raw=true" width="30px">
   Hi, I'm Kelvyn94
-  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+  <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Hi.gif?raw=true" width="30px">
 </h1>
 <h3 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">
+  <img src="https://i.gifer.com/71WV.gif" width="30px">
   IT Graduate | Python Developer | Web Developer | Finance Enthusiast
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">
+  <img src="https://i.gifer.com/71WV.gif" width="30px">
 </h3>
 
 <!-- Gradient Banner -->
