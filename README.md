@@ -1,31 +1,37 @@
+<!-- Animated Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2D9CDB&center=true&vCenter=true&width=500&lines=Hi+👋,+I'm+Kelvyn94;IT+Graduate+%7C+Python+Developer;Web+Developer+%7C+Finance+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=2D9CDB&center=true&vCenter=true&width=500&lines=Hi+👋,+I'm+Kelvyn94;IT+Graduate+%7C+Python+Developer;Web+Developer+%7C+Finance+Enthusiast" alt="Typing SVG" />
 </p>
 
-<!-- Banner -->
+<!-- Gradient Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2D9CDB,100:27AE60&height=120&section=header&text=Welcome%20to%20My%20Profile&fontSize=30&fontColor=ffffff&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2D9CDB,100:27AE60&height=150&section=header&text=Welcome%20to%20My%20Profile&fontSize=35&fontColor=ffffff&animation=fadeIn" width="100%"/>
 </p>
 
-<!-- Social Badges with Real Links -->
+<!-- Social Badges with Hover Effect -->
 <p align="center">
   <a href="mailto:kmacharia584@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=black" alt="Gmail"/>
   </a>
   <a href="https://www.linkedin.com/in/kelvin-njoroge-48993422b/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=black" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/Kelvyn94" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=black" alt="GitHub"/>
   </a>
   <a href="https://www.frontendmentor.io/profile/Kelvyn94" target="_blank">
-    <img src="https://img.shields.io/badge/Frontend_Mentor-3F54A3?style=for-the-badge&logo=frontendmentor&logoColor=white" alt="Frontend Mentor"/>
+    <img src="https://img.shields.io/badge/Frontend_Mentor-3F54A3?style=for-the-badge&logo=frontendmentor&logoColor=white&labelColor=black" alt="Frontend Mentor"/>
   </a>
 </p>
 
 ---
 
-## 🚀 About Me
+<!-- About Me Section with Glowing Effect -->
+<h2 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  About Me
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h2>
 
 ```python
 class Kelvyn94:
@@ -35,6 +41,10 @@ class Kelvyn94:
         self.interests = ["Financial Markets", "Data Analysis", "AI", "Web Development"]
         self.current_focus = "Python AI & Financial Data Analysis"
         self.fun_fact = "I think I'm funny 😄"
+        self.learning = "Machine Learning & AI"
     
     def say_hi(self):
         print("Thanks for visiting! Let's build something amazing!")
+    
+    def get_quote(self):
+        return "Code is like humor. When you have to explain it, it's bad."
