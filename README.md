@@ -1,7 +1,14 @@
 <!-- Animated Header -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=2D9CDB&center=true&vCenter=true&width=500&lines=Hi+👋,+I'm+Kelvyn94;IT+Graduate+%7C+Python+Developer;Web+Developer+%7C+Finance+Enthusiast" alt="Typing SVG" />
-</p>
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+  Hi, I'm Kelvyn94
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+</h1>
+<h3 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">
+  IT Graduate | Python Developer | Web Developer | Finance Enthusiast
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">
+</h3>
 
 <!-- Gradient Banner -->
 <p align="center">
