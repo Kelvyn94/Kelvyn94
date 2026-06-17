@@ -1,40 +1,39 @@
-<h1 align="center">Hi 👋, I'm Kelvyn94</h1>
-<h3 align="center">IT Graduate | Python Developer | Web Developer | Financial Market Enthusiast</h3>
-
-- 🔭 I’m currently working on **Financial data analysis**
-
-- 🌱 I’m currently learning **Python AI**
-
-- 👯 I’m looking to collaborate on **Web Development Projects**
-
-- 💬 Ask me about **Python, Javascript, HTML/CSS, Data Analysis, Git $ GitHub**
-
-- 📫 How to reach me **kmacharia584@gmail.com**
-
-- ⚡ Fun fact **I think am funny**
-
-<p align="left">
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2D9CDB&center=true&vCenter=true&width=500&lines=Hi+👋,+I'm+Kelvyn94;IT+Graduate+%7C+Python+Developer;Web+Developer+%7C+Finance+Enthusiast" alt="Typing SVG" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2D9CDB,100:27AE60&height=120&section=header&text=Welcome%20to%20My%20Profile&fontSize=30&fontColor=ffffff&animation=fadeIn" width="100%"/>
+</p>
 
-<div align="left">
+<!-- Social Badges -->
+<p align="center">
+  <a href="mailto:kmacharia584@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://linkedin.com/in/your-profile">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/Kelvyn94">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://twitter.com/your-profile">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+</p>
 
-| Technology | Skill Level |
-|------------|-------------|
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="30"/> HTML5 | ⭐⭐⭐⭐⭐⭐☆☆☆☆ 60% |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="30"/> CSS3 | ⭐⭐⭐⭐⭐⭐☆☆☆☆ 60% |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="30"/> Bootstrap | ⭐⭐⭐⭐⭐☆☆☆☆☆ 50% |
-| <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="30"/> Tailwind | ⭐⭐⭐⭐⭐☆☆☆☆☆ 50% |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="30"/> SASS | ⭐⭐⭐⭐☆☆☆☆☆☆ 40% |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="30"/> JavaScript | ⭐⭐⭐⭐⭐⭐⭐☆☆☆ 70% |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="30"/> React | ⭐⭐⭐⭐⭐☆☆☆☆☆ 50% |
-| <img src="https://www.chartjs.org/media/logo-title.svg" width="30"/> Chart.js | ⭐⭐⭐⭐☆☆☆☆☆☆ 40% |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="30"/> MySQL | ⭐⭐⭐⭐⭐☆☆☆☆☆ 50% |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="30"/> Python | ⭐⭐⭐⭐⭐⭐☆☆☆☆ 60% |
-| <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="30"/> Git | ⭐⭐⭐⭐⭐⭐☆☆☆☆ 60% |
-| <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="30"/> Figma | ⭐⭐⭐⭐⭐☆☆☆☆☆ 50% |
-| <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" width="30"/> Illustrator | ⭐⭐⭐⭐☆☆☆☆☆☆ 40% |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="30"/> Node.js | ⭐⭐⭐⭐⭐☆☆☆☆☆ 50% |
+---
 
-</div>
+## 🚀 About Me
+
+```python
+class Kelvyn94:
+    def __init__(self):
+        self.name = "Kelvyn Macharia"
+        self.role = "IT Graduate | Python Developer | Web Developer"
+        self.interests = ["Financial Markets", "Data Analysis", "AI", "Web Development"]
+        self.current_focus = "Python AI & Financial Data Analysis"
+        self.fun_fact = "I think I'm funny 😄"
+    
+    def say_hi(self):
+        print("Thanks for visiting! Let's build something amazing!")
