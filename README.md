@@ -35,10 +35,12 @@
 
 ## 📌 Featured Projects
 
-| Project | What it does | Stack | Live |
-|---|---|---|---|
-| **[Tradex](https://github.com/Kelvyn94/Tradex)** | Trading journal & analytics — P&L tracking, macro regime and SMT signal feeds, backtesting | Next.js, Node/Express, PostgreSQL | [Demo](https://tradex-kelvyn94.vercel.app) |
-| **[Financial Intelligence System](https://github.com/Kelvyn94/Financial-Intelligence-System)** | SMT divergence detection across correlated assets, with OpenBB Workspace integration | FastAPI, Python, yfinance | — |
+| Project | What it does | Stack |
+|---|---|---|
+| **[Tradex](https://github.com/Kelvyn94/Tradex)** | Trading journal & analytics — P&L tracking, macro regime and SMT signal feeds, backtesting | Next.js, Node/Express, PostgreSQL |
+| **[Financial Intelligence System](https://github.com/Kelvyn94/Financial-Intelligence-System)** | SMT divergence detection across correlated assets, with OpenBB Workspace integration | FastAPI, Python, yfinance |
+
+Demo videos and screenshots for these live on my [portfolio site](https://portfolio-steel-zeta-60.vercel.app/#work).
 
 ---
 
