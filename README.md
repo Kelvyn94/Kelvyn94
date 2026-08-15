@@ -38,6 +38,7 @@
 | Project | What it does | Stack |
 |---|---|---|
 | **[Tradex](https://github.com/Kelvyn94/Tradex)** | Trading journal & analytics — P&L tracking, macro regime and SMT signal feeds, backtesting | Next.js, Node/Express, PostgreSQL |
+| **[Atlas Intelligence OS](https://github.com/Kelvyn94/atlas-intelligence-os-web)** | Executive intelligence system for a multi-sector holding company — knowledge validation, RAG-powered "Ask Atlas" chat, AI-drafted content review, cross-sector dashboards | Next.js, Tailwind CSS, TypeScript |
 | **[Financial Intelligence System](https://github.com/Kelvyn94/Financial-Intelligence-System)** | SMT divergence detection across correlated assets, with OpenBB Workspace integration | FastAPI, Python, yfinance |
 
 Demo videos and screenshots for these live on my [portfolio site](https://portfolio-steel-zeta-60.vercel.app/#work).
