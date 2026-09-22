@@ -6,7 +6,7 @@
 </h1>
 <h3 align="center">
   <img src="https://i.gifer.com/71WV.gif" width="30px">
-  Full-stack developer building Python & web tools for financial markets
+  Full-stack developer building Python & web tools for business and financial markets
   <img src="https://i.gifer.com/71WV.gif" width="30px">
 </h3>
 
