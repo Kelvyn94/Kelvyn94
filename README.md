@@ -6,7 +6,7 @@
 </h1>
 <h3 align="center">
   <img src="https://i.gifer.com/71WV.gif" width="30px">
-  Full-stack developer building Python & web tools for business and financial markets
+  Full-Stack AI & Analytics Developer | Next.js, Python & Executive Dashboards
   <img src="https://i.gifer.com/71WV.gif" width="30px">
 </h3>
 
@@ -37,9 +37,8 @@
 
 | Project | What it does | Stack |
 |---|---|---|
-| **[Tradex](https://github.com/Kelvyn94/Tradex)** | Trading journal & analytics — P&L tracking, macro regime and SMT signal feeds, backtesting | Next.js, Node/Express, PostgreSQL |
 | **[Atlas Intelligence OS](https://github.com/Kelvyn94/atlas-intelligence-os-web)** | Executive intelligence system for a multi-sector holding company — knowledge validation, RAG-powered "Ask Atlas" chat, AI-drafted content review, cross-sector dashboards | Next.js, Tailwind CSS, TypeScript |
-| **[Financial Intelligence System](https://github.com/Kelvyn94/Financial-Intelligence-System)** | SMT divergence detection across correlated assets, with OpenBB Workspace integration | FastAPI, Python, yfinance |
+| **[Tradex](https://github.com/Kelvyn94/Tradex)** | Trading journal & analytics — P&L tracking, macro regime and SMT signal feeds, backtesting | Next.js, Node/Express, PostgreSQL |
 
 Demo videos and screenshots for these live on my [portfolio site](https://portfolio-steel-zeta-60.vercel.app/#work).
 
@@ -56,11 +55,11 @@ Demo videos and screenshots for these live on my [portfolio site](https://portfo
 class Kelvyn94:
     def __init__(self):
         self.name = "Kelvin Njoroge"
-        self.role = "Full-stack developer (Python + JS/TS)"
-        self.focus = "Building tools for trading, market analysis, and financial data"
-        self.currently_building = ["Tradex", "Financial Intelligence System"]
+        self.role = "Full-Stack AI & Analytics Developer"
+        self.focus = "Building executive intelligence systems, RAG AI tools, and real-time business dashboards"
+        self.currently_building = ["Atlas Intelligence OS", "Tradex"]
         self.fun_fact = "I think I'm funny 😄"
-        self.learning = "Machine Learning & AI"
+        self.learning = "Machine Learning & Advanced RAG Pipelines"
     
     def say_hi(self):
         print("Thanks for visiting! Let's build something amazing!")
