@@ -1,68 +1,90 @@
-<!-- Animated Header -->
-<h1 align="center">
-  <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Hi.gif?raw=true" width="30px">
-  Hi, I'm Kelvyn94
-  <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Hi.gif?raw=true" width="30px">
-</h1>
-<h3 align="center">
-  <img src="https://i.gifer.com/71WV.gif" width="30px">
-  Full-Stack AI & Analytics Developer | Next.js, Python & Executive Dashboards
-  <img src="https://i.gifer.com/71WV.gif" width="30px">
-</h3>
+# Hi, I'm Kelvin Njoroge 👋
 
-<!-- Gradient Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2D9CDB,100:27AE60&height=150&section=header&text=Welcome%20to%20My%20Profile&fontSize=35&fontColor=ffffff&animation=fadeIn" width="100%"/>
-</p>
+**IT Graduate | Junior Software Developer | Business Systems & Analytics**
 
-<!-- Social Badges with Hover Effect -->
-<p align="center">
-  <a href="https://portfolio-steel-zeta-60.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-2D9CDB?style=for-the-badge&logo=vercel&logoColor=white&labelColor=black" alt="Portfolio"/>
-  </a>
-  <a href="mailto:kmacharia584@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=black" alt="Gmail"/>
-  </a>
-  <a href="https://www.linkedin.com/in/kelvin-njoroge-48993422b/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=black" alt="LinkedIn"/>
-  </a>
-  <a href="https://www.frontendmentor.io/profile/Kelvyn94" target="_blank">
-    <img src="https://img.shields.io/badge/Frontend_Mentor-3F54A3?style=for-the-badge&logo=frontendmentor&logoColor=white&labelColor=black" alt="Frontend Mentor"/>
-  </a>
-</p>
+I'm an IT graduate from Kirinyaga University focused on building practical web applications, business systems, and data-driven tools. I'm looking for an opportunity to contribute to a software development team, solve real problems, and grow through hands-on engineering work.
 
----
+[Portfolio](https://portfolio-steel-zeta-60.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/kelvin-njoroge-48993422b/) · [Email](mailto:kmacharia584@gmail.com) · [GitHub Repositories](https://github.com/Kelvyn94?tab=repositories)
 
-## 📌 Featured Projects
+## About Me
 
-| Project | What it does | Stack |
-|---|---|---|
-| **[Atlas Intelligence OS](https://github.com/Kelvyn94/atlas-intelligence-os-web)** | Executive intelligence system for a multi-sector holding company — knowledge validation, RAG-powered "Ask Atlas" chat, AI-drafted content review, cross-sector dashboards | Next.js, Tailwind CSS, TypeScript |
-| **[Tradex](https://github.com/Kelvyn94/Tradex)** | Trading journal & analytics — P&L tracking, macro regime and SMT signal feeds, backtesting | Next.js, Node/Express, PostgreSQL |
+- 🎓 IT graduate from Kirinyaga University.
+- 💻 Interested in junior software developer, web developer, and application support/development opportunities.
+- 🛠️ Building practical projects involving web applications, APIs, databases, and analytics.
+- 📊 Interested in business systems that help organizations manage information and make better decisions.
+- 🌱 Continuously improving my skills in software design, testing, deployment, and documentation.
+- 🤝 Open to junior developer roles, internships, graduate opportunities, and suitable project collaborations.
 
-Demo videos and screenshots for these live on my [portfolio site](https://portfolio-steel-zeta-60.vercel.app/#work).
+## Featured Projects
 
----
+### 1. Atlas Intelligence OS
+An executive-intelligence application exploring business dashboards, knowledge workflows, and AI-assisted tools.
 
-<!-- About Me Section with Glowing Effect -->
-<h2 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-  About Me
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h2>
+- **Focus:** Business dashboards, application workflows, and AI integration.
+- **Technologies:** Next.js, TypeScript, and Tailwind CSS (verify the current repository implementation).
+- [Live Demo](https://atlas-intelligence-os-web.vercel.app/dashboard) · [Source Code](https://github.com/Kelvyn94/atlas-intelligence-os-web)
 
-```python
-class Kelvyn94:
-    def __init__(self):
-        self.name = "Kelvin Njoroge"
-        self.role = "Full-Stack AI & Analytics Developer"
-        self.focus = "Building executive intelligence systems, RAG AI tools, and real-time business dashboards"
-        self.currently_building = ["Atlas Intelligence OS", "Tradex"]
-        self.fun_fact = "I think I'm funny 😄"
-        self.learning = "Machine Learning & Advanced RAG Pipelines"
-    
-    def say_hi(self):
-        print("Thanks for visiting! Let's build something amazing!")
-    
-    def get_quote(self):
-        return "Code is like humor. When you have to explain it, it's bad."
+### 2. TradeX
+A trading journal and analytics application for recording trades and reviewing performance.
+
+- **Focus:** Data-driven interfaces, trade tracking, and analytics.
+- **Technologies:** Check the repository for the exact current stack.
+- [Live Demo](https://tradex-web-five.vercel.app/) · [Source Code](https://github.com/Kelvyn94/Tradex)
+
+### 3. Kenya Technology Blog
+A public-facing technology website demonstrating website development and content presentation.
+
+- [Live Website](https://kelvyn94.github.io/Kenya-Technology-Blog/)
+- [Find Repository](https://github.com/Kelvyn94?tab=repositories)
+
+### 4. Business Website
+A website project demonstrating a business-focused online presence.
+
+- [Live Website](https://kelvyn94.github.io/Business-Website/)
+- [Find Repository](https://github.com/Kelvyn94?tab=repositories)
+
+### 5. CV Match Analyzer
+A project exploring CV and job-requirement matching. Refer to its README for implemented functionality and setup instructions.
+
+- [Source Code](https://github.com/Kelvyn94/cv-match-analyzer)
+
+### 6. Table Exporter Extension
+A browser-extension project focused on exporting table data.
+
+- [Source Code](https://github.com/Kelvyn94/table-exporter-extension)
+
+More projects and demonstrations: [My Portfolio](https://portfolio-steel-zeta-60.vercel.app/)
+
+## Technical Skills
+
+My current development areas include:
+
+- **Languages:** Python, JavaScript, TypeScript
+- **Frontend:** React, Next.js, HTML, CSS, Tailwind CSS
+- **Backend:** Node.js, Express, FastAPI
+- **Databases:** PostgreSQL
+- **Tools:** Git, GitHub, VS Code
+- **Additional interests:** Business analytics, AI integration, and workflow automation
+
+I continue to strengthen these skills through hands-on projects. Please refer to individual repositories for the specific technologies used in each application.
+
+## What I'm Looking For
+
+I'm actively seeking opportunities such as:
+
+- Junior Software Developer
+- Junior Full-Stack Developer
+- Junior Web Developer
+- Graduate Trainee — Software or IT
+- Application Support / Systems Support roles with development responsibilities
+
+I'm particularly interested in teams where I can contribute to real projects, learn from experienced developers, and build reliable software.
+
+## Contact
+
+- **Portfolio:** https://portfolio-steel-zeta-60.vercel.app/
+- **LinkedIn:** https://www.linkedin.com/in/kelvin-njoroge-48993422b/
+- **Email:** kmacharia584@gmail.com
+- **GitHub:** https://github.com/Kelvyn94
+
+Thank you for visiting my profile. I'm open to connecting with recruiters, developers, and teams looking for a motivated junior developer.
