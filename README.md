@@ -2,9 +2,9 @@
 
 # Kelvin Njoroge Macharia
 
-**IT graduate building full-stack web apps, business dashboards, and data-driven tools**
+### Full-stack developer · Dashboards · Data-driven apps
 
-Next.js · TypeScript · Python · PostgreSQL · Kenya
+Turning business problems into working software.
 
 [Portfolio](https://portfolio-steel-zeta-60.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/kelvin-njoroge-48993422b/) · [Email](mailto:kmacharia584@gmail.com)
 
@@ -12,50 +12,62 @@ Next.js · TypeScript · Python · PostgreSQL · Kenya
 
 ---
 
-I'm an IT graduate from Kirinyaga University. I build practical web applications, analytics dashboards, and AI-assisted tools, with a focus on financial data and business systems. I'm growing toward full-stack and business-systems development and ship working projects rather than tutorials.
+## At a glance
 
-## Selected projects
+- **Background:** IT graduate, Kirinyaga University
+- **Based in:** Kenya
+- **Building:** web apps, analytics dashboards, AI-assisted tools
+- **Focus:** financial data, business systems, RAG
+- **Open to:** junior full-stack roles · freelance · small-business projects
 
-### Atlas Intelligence OS
-A multi-tenant knowledge platform that scores and validates content before storing it, then answers questions with cited, retrieval-grounded responses (RAG). Built as a Next.js frontend over an Express API.
+## Selected work
 
-- **Stack:** Next.js (App Router), Tailwind CSS, Node.js/Express, PostgreSQL + pgvector (Supabase) with row-level security, Gemini with Groq fallback, JWT auth, Python extraction pipeline, GitHub Actions
-- **Links:** [Live app](https://atlas-intelligence-os-web.vercel.app/dashboard) · [Frontend repo](https://github.com/Kelvyn94/atlas-intelligence-os-web) · [API repo](https://github.com/Kelvyn94/atlas-intelligence-os-api)
+| | |
+|---|---|
+| **Atlas Intelligence OS** | **Knowledge platform with a quality gate and cited AI answers.** |
+| | Validates content before storing it. Answers questions with RAG over pgvector. Tenant isolation via Postgres row-level security. |
+| | `Next.js` `Express` `PostgreSQL` `pgvector` `Gemini` `Groq` |
+| | [Live app](https://atlas-intelligence-os-web.vercel.app/dashboard) · [Frontend](https://github.com/Kelvyn94/atlas-intelligence-os-web) · [API](https://github.com/Kelvyn94/atlas-intelligence-os-api) |
+| **TradeX** | **Trading journal that shows how you actually perform.** |
+| | Trade logging with live P&L. Risk-reward tracking. Charts, CSV export, macro and SMT signal views. |
+| | `Next.js` `TypeScript` `Express` `PostgreSQL` `Recharts` |
+| | [Source](https://github.com/Kelvyn94/Tradex) · [Walkthrough](https://portfolio-steel-zeta-60.vercel.app/#work) |
+| **Financial Intelligence System** | **Market monitor that flags divergences across correlated assets.** |
+| | Tracks gold, silver and FX pairs. Detects SMT divergence on multiple timeframes. Sends email alerts. Plugs into OpenBB Workspace. |
+| | `Python` `FastAPI` `pandas` `yfinance` `Docker` |
+| | [Source](https://github.com/Kelvyn94/Financial-Intelligence-System) |
+| **Shofar Media website** | **Live site for a marketing and billboard agency.** |
+| | Service pages, blog, contact page, WhatsApp chat. |
+| | `WordPress` `Elementor` |
+| | [Live site](https://theshofarmediahub.com/) |
 
-### TradeX
-A trading journal and analytics app for forex and gold: trade logging with live P&L preview, risk-reward tracking, performance charts with CSV export, and macro-regime and SMT-divergence views.
+### Small tools
 
-- **Stack:** Next.js 14, React, TypeScript, Tailwind CSS, Radix UI, Recharts, Node.js/Express, PostgreSQL (Neon), JWT, Vercel
-- **Links:** [Source code](https://github.com/Kelvyn94/Tradex) · [Walkthrough on my portfolio](https://portfolio-steel-zeta-60.vercel.app/#work)
+- **[Table Exporter](https://github.com/Kelvyn94/table-exporter-extension):** Chrome extension. Finds tables on any page, exports to CSV.
+- **[CV Match Analyzer](https://github.com/Kelvyn94/cv-match-analyzer):** compares a CV to a job post. Runs in the browser, uploads nothing.
 
-### Financial Intelligence System
-A Python/FastAPI service that monitors gold, silver, and FX pairs, detects SMT divergences across correlated assets on multiple timeframes, sends email alerts, and connects to OpenBB Workspace through custom widgets.
+### Front-end demos (sample content)
 
-- **Stack:** FastAPI, pandas, NumPy, yfinance, SMTP/SendGrid, Docker Compose
-- **Links:** [Source code](https://github.com/Kelvyn94/Financial-Intelligence-System)
-
-### Shofar Media website
-A WordPress and Elementor website for a digital marketing and billboard advertising agency, with service pages, a blog, a contact page, and WhatsApp chat.
-
-- **Links:** [Live site](https://theshofarmediahub.com/)
-
-### Smaller tools
-- **[Table Exporter](https://github.com/Kelvyn94/table-exporter-extension)**: Chrome extension (Manifest V3, vanilla JavaScript) that finds HTML tables on any page and exports them to CSV.
-- **[CV Match Analyzer](https://github.com/Kelvyn94/cv-match-analyzer)**: browser-only tool that compares a CV against a job posting and lists matched and missing skills.
-
-### Front-end demos
-Static demo sites with sample content: [Kenya Tech Blog](https://kelvyn94.github.io/Kenya-Technology-Blog/) · [GreenGrow business website](https://kelvyn94.github.io/Business-Website/)
+[Kenya Tech Blog](https://kelvyn94.github.io/Kenya-Technology-Blog/) · [GreenGrow business site](https://kelvyn94.github.io/Business-Website/)
 
 ## Toolkit
 
-- **Frontend:** React, Next.js, TypeScript, JavaScript, Tailwind CSS, HTML/CSS
-- **Backend and data:** Python, FastAPI, Node.js, Express, PostgreSQL, pandas, JWT authentication
-- **AI and tooling:** RAG with pgvector, Gemini and Groq APIs, Git/GitHub Actions, Docker Compose, Vercel, WordPress/Elementor
+| | |
+|---|---|
+| **Frontend** | React · Next.js · TypeScript · Tailwind CSS |
+| **Backend** | Python · FastAPI · Node.js · Express · JWT |
+| **Data** | PostgreSQL · pgvector · pandas |
+| **AI** | RAG · Gemini · Groq |
+| **Delivery** | Git · GitHub Actions · Docker · Vercel |
 
-## Elsewhere
+## Currently
 
-[Frontend Mentor](https://www.frontendmentor.io/profile/Kelvyn94) · [Portfolio](https://portfolio-steel-zeta-60.vercel.app/)
+- Deepening Python for financial data analysis
+- Building more AI-assisted business tools
+- Growing toward full-stack and business-systems development
 
-## Let's work together
+## Let's talk
 
-I'm open to junior full-stack roles, freelance projects, and small-business work such as websites, dashboards, and internal tools. The best way to reach me is by [email](mailto:kmacharia584@gmail.com) or [LinkedIn](https://www.linkedin.com/in/kelvin-njoroge-48993422b/).
+Need a website, dashboard, or internal tool? Hiring for a junior full-stack role?
+
+**[kmacharia584@gmail.com](mailto:kmacharia584@gmail.com)** · [LinkedIn](https://www.linkedin.com/in/kelvin-njoroge-48993422b/) · [Frontend Mentor](https://www.frontendmentor.io/profile/Kelvyn94)
