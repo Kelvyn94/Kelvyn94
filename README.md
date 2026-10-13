@@ -1,90 +1,61 @@
-# Hi, I'm Kelvin Njoroge 👋
+<div align="center">
 
-**IT Graduate | Junior Software Developer | Business Systems & Analytics**
+# Kelvin Njoroge Macharia
 
-I'm an IT graduate from Kirinyaga University focused on building practical web applications, business systems, and data-driven tools. I'm looking for an opportunity to contribute to a software development team, solve real problems, and grow through hands-on engineering work.
+**IT graduate building full-stack web apps, business dashboards, and data-driven tools**
 
-[Portfolio](https://portfolio-steel-zeta-60.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/kelvin-njoroge-48993422b/) · [Email](mailto:kmacharia584@gmail.com) · [GitHub Repositories](https://github.com/Kelvyn94?tab=repositories)
+Next.js · TypeScript · Python · PostgreSQL · Kenya
 
-## About Me
+[Portfolio](https://portfolio-steel-zeta-60.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/kelvin-njoroge-48993422b/) · [Email](mailto:kmacharia584@gmail.com)
 
-- 🎓 IT graduate from Kirinyaga University.
-- 💻 Interested in junior software developer, web developer, and application support/development opportunities.
-- 🛠️ Building practical projects involving web applications, APIs, databases, and analytics.
-- 📊 Interested in business systems that help organizations manage information and make better decisions.
-- 🌱 Continuously improving my skills in software design, testing, deployment, and documentation.
-- 🤝 Open to junior developer roles, internships, graduate opportunities, and suitable project collaborations.
+</div>
 
-## Featured Projects
+---
 
-### 1. Atlas Intelligence OS
-An executive-intelligence application exploring business dashboards, knowledge workflows, and AI-assisted tools.
+I'm an IT graduate from Kirinyaga University. I build practical web applications, analytics dashboards, and AI-assisted tools, with a focus on financial data and business systems. I'm growing toward full-stack and business-systems development and ship working projects rather than tutorials.
 
-- **Focus:** Business dashboards, application workflows, and AI integration.
-- **Technologies:** Next.js, TypeScript, and Tailwind CSS (verify the current repository implementation).
-- [Live Demo](https://atlas-intelligence-os-web.vercel.app/dashboard) · [Source Code](https://github.com/Kelvyn94/atlas-intelligence-os-web)
+## Selected projects
 
-### 2. TradeX
-A trading journal and analytics application for recording trades and reviewing performance.
+### Atlas Intelligence OS
+A multi-tenant knowledge platform that scores and validates content before storing it, then answers questions with cited, retrieval-grounded responses (RAG). Built as a Next.js frontend over an Express API.
 
-- **Focus:** Data-driven interfaces, trade tracking, and analytics.
-- **Technologies:** Check the repository for the exact current stack.
-- [Live Demo](https://tradex-web-five.vercel.app/) · [Source Code](https://github.com/Kelvyn94/Tradex)
+- **Stack:** Next.js (App Router), Tailwind CSS, Node.js/Express, PostgreSQL + pgvector (Supabase) with row-level security, Gemini with Groq fallback, JWT auth, Python extraction pipeline, GitHub Actions
+- **Links:** [Live app](https://atlas-intelligence-os-web.vercel.app/dashboard) · [Frontend repo](https://github.com/Kelvyn94/atlas-intelligence-os-web) · [API repo](https://github.com/Kelvyn94/atlas-intelligence-os-api)
 
-### 3. Kenya Technology Blog
-A public-facing technology website demonstrating website development and content presentation.
+### TradeX
+A trading journal and analytics app for forex and gold: trade logging with live P&L preview, risk-reward tracking, performance charts with CSV export, and macro-regime and SMT-divergence views.
 
-- [Live Website](https://kelvyn94.github.io/Kenya-Technology-Blog/)
-- [Find Repository](https://github.com/Kelvyn94?tab=repositories)
+- **Stack:** Next.js 14, React, TypeScript, Tailwind CSS, Radix UI, Recharts, Node.js/Express, PostgreSQL (Neon), JWT, Vercel
+- **Links:** [Source code](https://github.com/Kelvyn94/Tradex) · [Walkthrough on my portfolio](https://portfolio-steel-zeta-60.vercel.app/#work)
 
-### 4. Business Website
-A website project demonstrating a business-focused online presence.
+### Financial Intelligence System
+A Python/FastAPI service that monitors gold, silver, and FX pairs, detects SMT divergences across correlated assets on multiple timeframes, sends email alerts, and connects to OpenBB Workspace through custom widgets.
 
-- [Live Website](https://kelvyn94.github.io/Business-Website/)
-- [Find Repository](https://github.com/Kelvyn94?tab=repositories)
+- **Stack:** FastAPI, pandas, NumPy, yfinance, SMTP/SendGrid, Docker Compose
+- **Links:** [Source code](https://github.com/Kelvyn94/Financial-Intelligence-System)
 
-### 5. CV Match Analyzer
-A project exploring CV and job-requirement matching. Refer to its README for implemented functionality and setup instructions.
+### Shofar Media website
+A WordPress and Elementor website for a digital marketing and billboard advertising agency, with service pages, a blog, a contact page, and WhatsApp chat.
 
-- [Source Code](https://github.com/Kelvyn94/cv-match-analyzer)
+- **Links:** [Live site](https://theshofarmediahub.com/)
 
-### 6. Table Exporter Extension
-A browser-extension project focused on exporting table data.
+### Smaller tools
+- **[Table Exporter](https://github.com/Kelvyn94/table-exporter-extension)**: Chrome extension (Manifest V3, vanilla JavaScript) that finds HTML tables on any page and exports them to CSV.
+- **[CV Match Analyzer](https://github.com/Kelvyn94/cv-match-analyzer)**: browser-only tool that compares a CV against a job posting and lists matched and missing skills.
 
-- [Source Code](https://github.com/Kelvyn94/table-exporter-extension)
+### Front-end demos
+Static demo sites with sample content: [Kenya Tech Blog](https://kelvyn94.github.io/Kenya-Technology-Blog/) · [GreenGrow business website](https://kelvyn94.github.io/Business-Website/)
 
-More projects and demonstrations: [My Portfolio](https://portfolio-steel-zeta-60.vercel.app/)
+## Toolkit
 
-## Technical Skills
+- **Frontend:** React, Next.js, TypeScript, JavaScript, Tailwind CSS, HTML/CSS
+- **Backend and data:** Python, FastAPI, Node.js, Express, PostgreSQL, pandas, JWT authentication
+- **AI and tooling:** RAG with pgvector, Gemini and Groq APIs, Git/GitHub Actions, Docker Compose, Vercel, WordPress/Elementor
 
-My current development areas include:
+## Elsewhere
 
-- **Languages:** Python, JavaScript, TypeScript
-- **Frontend:** React, Next.js, HTML, CSS, Tailwind CSS
-- **Backend:** Node.js, Express, FastAPI
-- **Databases:** PostgreSQL
-- **Tools:** Git, GitHub, VS Code
-- **Additional interests:** Business analytics, AI integration, and workflow automation
+[Frontend Mentor](https://www.frontendmentor.io/profile/Kelvyn94) · [Portfolio](https://portfolio-steel-zeta-60.vercel.app/)
 
-I continue to strengthen these skills through hands-on projects. Please refer to individual repositories for the specific technologies used in each application.
+## Let's work together
 
-## What I'm Looking For
-
-I'm actively seeking opportunities such as:
-
-- Junior Software Developer
-- Junior Full-Stack Developer
-- Junior Web Developer
-- Graduate Trainee — Software or IT
-- Application Support / Systems Support roles with development responsibilities
-
-I'm particularly interested in teams where I can contribute to real projects, learn from experienced developers, and build reliable software.
-
-## Contact
-
-- **Portfolio:** https://portfolio-steel-zeta-60.vercel.app/
-- **LinkedIn:** https://www.linkedin.com/in/kelvin-njoroge-48993422b/
-- **Email:** kmacharia584@gmail.com
-- **GitHub:** https://github.com/Kelvyn94
-
-Thank you for visiting my profile. I'm open to connecting with recruiters, developers, and teams looking for a motivated junior developer.
+I'm open to junior full-stack roles, freelance projects, and small-business work such as websites, dashboards, and internal tools. The best way to reach me is by [email](mailto:kmacharia584@gmail.com) or [LinkedIn](https://www.linkedin.com/in/kelvin-njoroge-48993422b/).
